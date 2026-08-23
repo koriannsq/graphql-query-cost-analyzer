@@ -1,0 +1,1 @@
+function analyze(q) { return q.split('{').length; } module.exports = { analyze };
